@@ -25,11 +25,6 @@ This project provides a computerized solution to make the process faster, easier
 * **Language:** C++
 * **Concepts:** Loops, Switch Statements, Variables, Conditional Statements
 
-## 📂 Project Structure
-
-* `main.cpp` → Contains the complete source code
-* `README.md` → Project documentation
-
 ## 📋 Menu Items
 
 Example menu included in the system:
@@ -47,16 +42,6 @@ Example menu included in the system:
 4. The customer can continue ordering more items.
 5. At the end, the total bill is displayed.
 6. Daily sales summary is generated.
-
-## ▶️ How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone <your-repo-link>
-   ```
-2. Open the project in any C++ IDE (CodeBlocks, Dev-C++, Visual Studio, etc.)
-3. Compile and run the `main.cpp` file.
 
 ## 📖 Example Output
 
@@ -80,6 +65,3 @@ Add more items? (y/n): y
 * Use functions for cleaner code structure
 * Build a GUI version for better user experience
 
-## 👩‍💻 Author
-
-Developed as a beginner-level C++ project for learning programming fundamentals.
